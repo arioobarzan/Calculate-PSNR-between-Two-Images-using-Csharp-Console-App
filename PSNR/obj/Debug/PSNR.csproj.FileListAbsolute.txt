@@ -1,0 +1,6 @@
+c:\users\arioobarzan\documents\visual studio 2015\Projects\PSNR\PSNR\bin\Debug\PSNR.exe.config
+c:\users\arioobarzan\documents\visual studio 2015\Projects\PSNR\PSNR\bin\Debug\PSNR.exe
+c:\users\arioobarzan\documents\visual studio 2015\Projects\PSNR\PSNR\bin\Debug\PSNR.pdb
+c:\users\arioobarzan\documents\visual studio 2015\Projects\PSNR\PSNR\obj\Debug\PSNR.csprojResolveAssemblyReference.cache
+c:\users\arioobarzan\documents\visual studio 2015\Projects\PSNR\PSNR\obj\Debug\PSNR.exe
+c:\users\arioobarzan\documents\visual studio 2015\Projects\PSNR\PSNR\obj\Debug\PSNR.pdb
